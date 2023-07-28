@@ -21,7 +21,7 @@
     "codeception/codeception": "^5.0",
     "codeception/module-asserts": "^3.0",
     "codeception/module-phpbrowser": "^3.0",
-    "codeception/module-webdriver": "^4.0",
+    "codeception/module-webdriver": "^3.0",
     "drupal/config_inspector": ">=1.0",
     "drupal/core": ">=9",
     "drupal/core-dev": ">=9",
