@@ -19,9 +19,9 @@
   ],
   "require": {
     "codeception/codeception": ">=4.1",
-    "codeception/module-asserts": "^1.1",
-    "codeception/module-phpbrowser": "^1.0",
-    "codeception/module-webdriver": "^1.0",
+    "codeception/module-asserts": ">=1.1",
+    "codeception/module-phpbrowser": ">=1.0",
+    "codeception/module-webdriver": ">=1.0",
     "drupal/config_inspector": ">=1.0",
     "drupal/core": ">=9.0",
     "drupal/core-dev": ">=9.0",
